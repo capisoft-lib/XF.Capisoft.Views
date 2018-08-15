@@ -1,3 +1,4 @@
 Nugets/
 packages/
 .vs/
+deploy-nugets.sh
