@@ -1,0 +1,36 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XF.Capisoft.Views", "XF.Capisoft.Views\XF.Capisoft.Views.csproj", "{087F7B86-AD2E-4F10-941D-4C4FF12CD1A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XF.Capisoft.Views.iOS", "XF.Capisoft.Views.iOS\XF.Capisoft.Views.iOS.csproj", "{38F168A8-A75F-441A-9895-D91BCA9D0C2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XF.Capisoft.Views.Android", "XF.Capisoft.Views.Android\XF.Capisoft.Views.Android.csproj", "{A3EACB97-CDBD-4847-9316-B98423472F2C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Libraries", "Libraries", "{BAE78922-77D1-4EDD-910D-A48D010AC263}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{087F7B86-AD2E-4F10-941D-4C4FF12CD1A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{087F7B86-AD2E-4F10-941D-4C4FF12CD1A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{087F7B86-AD2E-4F10-941D-4C4FF12CD1A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{087F7B86-AD2E-4F10-941D-4C4FF12CD1A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38F168A8-A75F-441A-9895-D91BCA9D0C2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38F168A8-A75F-441A-9895-D91BCA9D0C2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38F168A8-A75F-441A-9895-D91BCA9D0C2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38F168A8-A75F-441A-9895-D91BCA9D0C2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3EACB97-CDBD-4847-9316-B98423472F2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3EACB97-CDBD-4847-9316-B98423472F2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3EACB97-CDBD-4847-9316-B98423472F2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3EACB97-CDBD-4847-9316-B98423472F2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{087F7B86-AD2E-4F10-941D-4C4FF12CD1A7} = {BAE78922-77D1-4EDD-910D-A48D010AC263}
+		{A3EACB97-CDBD-4847-9316-B98423472F2C} = {BAE78922-77D1-4EDD-910D-A48D010AC263}
+		{38F168A8-A75F-441A-9895-D91BCA9D0C2F} = {BAE78922-77D1-4EDD-910D-A48D010AC263}
+	EndGlobalSection
+EndGlobal
