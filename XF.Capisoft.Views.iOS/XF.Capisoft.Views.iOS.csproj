@@ -86,6 +86,9 @@
     <Compile Include="Renderers\ForegroundImageRenderer.cs" />
     <Compile Include="Renderers\ExtendedViewCellRenderer.cs" />
     <Compile Include="Renderers\ScrollListViewRenderer.cs" />
+    <Compile Include="Renderers\ScrollWebViewRenderer.cs" />
+    <Compile Include="Renderers\ImageEntryRenderer.cs" />
+    <Compile Include="Renderers\UnbouncedScrollViewRenderer.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\XF.Capisoft.Views\XF.Capisoft.Views.csproj">
